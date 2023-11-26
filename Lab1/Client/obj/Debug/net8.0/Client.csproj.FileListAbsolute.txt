@@ -1,0 +1,14 @@
+C:\Users\Захар\source\repos\Lab1\bin\Debug\net8.0\Client.exe
+C:\Users\Захар\source\repos\Lab1\bin\Debug\net8.0\Client.deps.json
+C:\Users\Захар\source\repos\Lab1\bin\Debug\net8.0\Client.runtimeconfig.json
+C:\Users\Захар\source\repos\Lab1\bin\Debug\net8.0\Client.dll
+C:\Users\Захар\source\repos\Lab1\bin\Debug\net8.0\Client.pdb
+C:\Users\Захар\source\repos\Lab1\obj\Debug\net8.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Захар\source\repos\Lab1\obj\Debug\net8.0\Client.AssemblyInfoInputs.cache
+C:\Users\Захар\source\repos\Lab1\obj\Debug\net8.0\Client.AssemblyInfo.cs
+C:\Users\Захар\source\repos\Lab1\obj\Debug\net8.0\Client.csproj.CoreCompileInputs.cache
+C:\Users\Захар\source\repos\Lab1\obj\Debug\net8.0\Client.dll
+C:\Users\Захар\source\repos\Lab1\obj\Debug\net8.0\refint\Client.dll
+C:\Users\Захар\source\repos\Lab1\obj\Debug\net8.0\Client.pdb
+C:\Users\Захар\source\repos\Lab1\obj\Debug\net8.0\Client.genruntimeconfig.cache
+C:\Users\Захар\source\repos\Lab1\obj\Debug\net8.0\ref\Client.dll
